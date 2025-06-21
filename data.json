@@ -1,0 +1,13 @@
+{
+    "greet_message": "Hi I am an AI assistant. How can I help you today?",
+    "failed_message": "Sorry, I couldn't understand that. Can you please speak again?",
+    "pause_threshold": 0.5,
+    "listen_text": "Listening...",
+    "piper_config":{
+        "host": "192.168.31.17",
+        "port": 10200,
+        "end_point": "/api/text-to-speech",
+        "voice": "en_US-lessac-medium"  
+    }
+  
+}

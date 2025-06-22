@@ -1,5 +1,12 @@
 # AI Voice Assistant
 
+## Auto Install Arch And Endevour OS
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/aruncs31s/AI_Assistant_app/refs/heads/main/setup.sh | sh
+```
+
+
 ## Requirements
 1. [wyoming-piper](https://github.com/rhasspy/wyoming-piper)
 
